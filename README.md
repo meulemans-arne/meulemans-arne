@@ -1,6 +1,4 @@
 - 
-- 
-- 
 - 👋 Hi, I’m @meulemans-arne
 - 👀 I’m interested in computational quantum chemistry, python coding, polymer modelling
 - 🌱 I’m currently learning MD polymer modelling
