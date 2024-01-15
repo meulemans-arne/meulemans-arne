@@ -1,7 +1,7 @@
 - 
 - 👋 Hi, I’m @meulemans-arne
-- 👀 I’m interested in computational quantum chemistry, python coding, polymer modelling
-- 🌱 I’m currently learning MD polymer modelling
+- 👀 I’m interested in computational quantum chemistry, python coding, polymer modelling, thermoelectric polymers (/organic semiconductors/ conjugated polymers) 
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :  arne.meulemans@kuleuven.be  or   arne.meulemans@telenet.be
 
